@@ -1,6 +1,7 @@
 # Matreshka v0.2
 ### [Download](https://github.com/finom/matreshka/releases)
-[![Matreshka Website](http://finom.github.io/img/mk-logo-colour.svg)](http://finom.github.io/matreshka)
+[![Matreshka Website](http://finom.github.io/img/mk-logo-colour.svg)](http://finom.github.io/matreshka)[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fmatreshka.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fmatreshka?ref=badge_shield)
+
 
 
 Matreshka - is the small and powerful client-side Javascript framework that allows you to build your applications a new way. The main advantages of Matreshka are:
@@ -119,3 +120,7 @@ array.forEach( function( item, index, self ) {
 
 
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fmatreshka.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fmatreshka?ref=badge_large)
